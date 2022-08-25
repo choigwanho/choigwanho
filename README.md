@@ -1,6 +1,6 @@
 # Gwanho Choi
   
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 <h1 align="center">Stacks<h3>
 
