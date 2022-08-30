@@ -27,20 +27,23 @@
     <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"> </a> &nbsp
     <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"> </a>
 </p>
+
+
+<h1 align="center">Study<h3>
+
+<div align="center">
+  
+  [![solved.ac tier](http://mazassumnida.wtf/api/pastel/generate_badge?boj=rhksghsss)](https://solved.ac/rhksghsss)
+  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=rhksghsss&theme=cold)
+ </div>
  
 
 
 <div align="right">
 
-
-[![Solved.ac
-Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=rhksghsss)](https://solved.ac/rhksghsss)
-
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://dev-choee.tistory.com/)](https://dev-choee.tistory.com/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rhksgh99@gmail.com)](mailto:rhksgh99@gmail.com)
-
-
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev-choee%2Fhit-counter&count_bg=%2385D44A&title_bg=%231A5533&icon=deno.svg&icon_color=%230DA411&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://dev-choee.tistory.com/)](https://dev-choee.tistory.com/)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rhksgh99@gmail.com)](mailto:rhksgh99@gmail.com)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev-choee%2Fhit-counter&count_bg=%2385D44A&title_bg=%231A5533&icon=deno.svg&icon_color=%230DA411&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
  </div>
 
