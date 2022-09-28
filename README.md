@@ -34,7 +34,6 @@
 <div align="center">
   
   [![solved.ac tier](http://mazassumnida.wtf/api/pastel/generate_badge?boj=rhksghsss)](https://solved.ac/rhksghsss)
-  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=rhksghsss&theme=cold)
  </div>
  
 
