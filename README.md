@@ -1,13 +1,4 @@
-## *Back-end Developer*
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![Springboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
-
-✨  <I>[RESUME]()</I>    
-🌱  <I>[PORTFOLIO]()</I>      
-✏️  <I>[TISTORY](https://dev-choee.tistory.com/)</I>    
-
-
+## *Gwanho Choi*
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
