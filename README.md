@@ -1,6 +1,6 @@
 ## *Gwanho Choi*
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
 <div align="right">
 
